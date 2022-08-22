@@ -1,4 +1,3 @@
-<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="rishavchanda" data-canonical-src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I am Mohit Panwar (MS)</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
